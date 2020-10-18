@@ -26,8 +26,6 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Sathvik and I'm a senior at Lynbrook High School.
 
-  I am most skilled in: <mark>AWS</mark>
-
 # Projects Section
 # projects_title: Projects
 
@@ -43,7 +41,7 @@ more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in mathematics and computer science, some of my other interests and hobbies are:
    - Reading
    - Gaming
-   - Chesss
+   - Chess
 
 # Footer
 footer_show_references: true
