@@ -5,4 +5,4 @@
   quote: >
     This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    When one of my family members was diagnosed with tree nut allergy, I recognized the prevalence and lack of treatment options. I began to develop an app in which users can enter meals that they ate and any symptoms they had. The app breaks the food down into ingredients and over time tries to figure out what ingredient had caused the symptoms using both statistical analysis and machine learning. Based on these factors, it makes predictions about what the user may be allergic to, that way, they can avoid eating foods with those ingredients, preventing potentially life threatening situations.. I have learned many skills through this and been I'm very proud of having this in my portfolio.
