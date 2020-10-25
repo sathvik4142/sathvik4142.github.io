@@ -1,4 +1,4 @@
-- layout: left
+- layout: top-middle
   name: Allergy App
   link: https://github.com/sathvik4142/allergyapp
   github: https://github.com/sathvik4142/allergyapp
@@ -13,7 +13,7 @@
     * [Kaggle Notebooks](https://www.kaggle.com/)
    
 
-- layout: left
+- layout: top-middle
   name: Parking App
   link: https://github.com/sathvik4142/ParkingApp
   github: https://github.com/sathvik4142/ParkingApp
@@ -21,7 +21,7 @@
     
   description: | # this will include new lines to allow paragraphs
 
-- layout: left
+- layout: top-middle
   name: Instagram Bot Detector
   link: https://github.com/sathvik4142/InstagramBotDetector
   github: https://github.com/sathvik4142/InstagramBotDetector
