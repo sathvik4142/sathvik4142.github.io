@@ -17,3 +17,12 @@
   quote: >
     
   description: | # this will include new lines to allow paragraphs
+
+- layout: top-middle
+  name: Instagram Bot Detector
+  link: https://github.com/sathvik4142/InstagramBotDetector
+  github: https://github.com/sathvik4142/InstagramBotDetector
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+  
