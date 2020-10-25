@@ -14,18 +14,18 @@
    
 
 - layout: left
-  name: parKing App
+  name: Parking App
   link: https://github.com/sathvik4142/ParkingApp
   github: https://github.com/sathvik4142/ParkingApp
   quote: >
     
   description: | # this will include new lines to allow paragraphs
 
-- layout: top-middle
+- layout: left
   name: Instagram Bot Detector
   link: https://github.com/sathvik4142/InstagramBotDetector
   github: https://github.com/sathvik4142/InstagramBotDetector
-  quote: >
+  quote: > Program to detect fake accounts on social media platforms.
     
   description: | # this will include new lines to allow paragraphs
     Program to detect fake accounts on social media platforms.
