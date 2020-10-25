@@ -1,4 +1,4 @@
-- layout: top-middle
+- layout: left
   name: Allergy App
   link: https://github.com/sathvik4142/allergyapp
   github: https://github.com/sathvik4142/allergyapp
@@ -13,7 +13,7 @@
     * [Kaggle Notebooks](https://www.kaggle.com/)
    
 
-- layout: top-middle
+- layout: top-left
   name: parKing App
   link: https://github.com/sathvik4142/ParkingApp
   github: https://github.com/sathvik4142/ParkingApp
